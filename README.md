@@ -1,1 +1,1 @@
-# KaC
+## KaC stands for kaggle centen that is a repo for kaggle research and competition
