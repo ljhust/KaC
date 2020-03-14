@@ -15,3 +15,7 @@
 |[TweetQA:Question Answering in Social Media](https://tweetqa.github.io/)|Research|
 |[Twitter RecSys](http://recsys-twitter.com/)|Research|
 |[The Gawler Challenge](https://unearthed.solutions/u/competitions/exploresa)|
+|[CheXper](https://stanfordmlgroup.github.io/competitions/chexpert/)|A Large Chest X-Ray Dataset And Competition|
+|[HotpotQA](https://hotpotqa.github.io/)|Research|HotpotQA is a question answering dataset featuring natural, multi-hop questions, with strong supervision for supporting facts to enable more explainable question answering systems. |
+|[Natural Questions](https://ai.google.com/research/NaturalQuestions)|Research|Open Domain Question Answering|
+|[AI GAMING](https://www.aigaming.com/)|AIgaming.com is a platform that allows computer programs - also known as bots, to play each other at challenging games to win bitcoin.|
