@@ -19,3 +19,4 @@
 |[HotpotQA](https://hotpotqa.github.io/)|Research|HotpotQA is a question answering dataset featuring natural, multi-hop questions, with strong supervision for supporting facts to enable more explainable question answering systems. |
 |[Natural Questions](https://ai.google.com/research/NaturalQuestions)|Research|Open Domain Question Answering|
 |[AI GAMING](https://www.aigaming.com/)|AIgaming.com is a platform that allows computer programs - also known as bots, to play each other at challenging games to win bitcoin.|
+|[KDD Cup 2020](https://www.kdd.org/kdd2020/kdd-cup)|Total rewards exceeding 120K will be given to the winners and leaders of the competitions this year.|
